@@ -29,7 +29,7 @@ _I archived this repository because I currently do not want to work on it._
 Just enter the following line to install Raven-Storm on Linux.
 
 ```bash
-curl -s https://raw.githubusercontent.com/Taguar258/Raven-Storm/master/install.sh | sudo bash -s
+curl -s https://raw.githubusercontent.com/CoolDragon12346/rs/master/install.sh | sudo bash -s
 ```
 
 <a style="color: grey" href="https://taguar258.github.io/Raven-Storm/INSTALLATION"><b>Click here for the more detailed installation guide.</b></a>
